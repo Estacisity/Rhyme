@@ -6,9 +6,6 @@
 
   <p align="center">
     Welcome to the Rhyme Project!
- 
-    <a href="https://github.com/Estacisity/Rhyme/issues">Report Bug</a>
-    <a href="https://github.com/Estacisity/Rhyme/issues">Request Feature</a>
   </p>
 </div>
 
