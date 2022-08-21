@@ -4,10 +4,6 @@
 
   <h3 align="center">Rhyme Music bot</h3>
 
-  <p align="center">
-    Welcome to the Rhyme Project!
-  </p>
-</div>
 
 
 
