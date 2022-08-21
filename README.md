@@ -36,8 +36,8 @@
 ## About The Project
 
 <p>Rhyme was written in<a href="https://python.org"> Python</a>. It was made in around 10 minutes so let me know if there needs to be any improvements. 
-  <br>To test the bot out, Invite it using this <a href="https://discord.com/api/oauth2/authorize?client_id=883354649636266094&permissions=3214400&scope=bot">link</a>. 
-  <br>To report a bug or request a new feature, open an <a href="https://github.com/Estacisity/Rhyme/issues">issue</a>.
+  <br><br>To test the bot out, Invite it using this <a href="https://discord.com/api/oauth2/authorize?client_id=883354649636266094&permissions=3214400&scope=bot">link</a>. 
+  <br><br>To report a bug or request a new feature, open an <a href="https://github.com/Estacisity/Rhyme/issues">issue</a>.
 </p>
 
 
@@ -49,7 +49,7 @@
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+You will need to install pip like so, or have it added to PATH whilst installing python.
 * pip
   ```sh
   python get-pip.py
@@ -57,7 +57,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Install the Project as shown below._
 
 1. Clone the repo
    ```sh
