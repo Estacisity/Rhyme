@@ -7,7 +7,7 @@ import random
 import datetime
 
 
-token = "ODgzMzU0NjQ5NjM2MjY2MDk0.GYbAWw.sQFBM76BcAoIHfwhRDyBdS6mlTd48aFO2cRIpA"
+token = "bot-token here"
 intents = discord.Intents.default().all()
 prefix = "-"
 bot = commands.AutoShardedBot(command_prefix=prefix, intents=intents)
