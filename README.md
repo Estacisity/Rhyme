@@ -31,13 +31,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p>Rhyme was written in<a href="https://python.org"> Python</a>. It was made in around 10 minutes so let me know if there needs to be any improvements. 
+<p>Rhyme was written in<a href="https://python.org"> Python</a>.
   <br><br>To test the bot out, Invite it using this <a href="https://discord.com/api/oauth2/authorize?client_id=883354649636266094&permissions=3214400&scope=bot">link</a>. 
   <br><br>To report a bug or request a new feature, open an <a href="https://github.com/Estacisity/Rhyme/issues">issue</a>.
 </p>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -64,7 +64,15 @@ _Install the Project as shown below._
    pip install -r requirements.txt
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Running the bot
+
+_Run the Project as shown below._
+
+   ```sh
+   python Rhyme.py
+   python3 Rhyme.py
+  ```
 
 
 
@@ -82,7 +90,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -94,5 +102,5 @@ Credit to:
 * [discord.py ](https://github.com/Rapptz/discord.py)
 * [DiscordUtils](https://pypi.org/project/DiscordUtils/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
